@@ -1,0 +1,22 @@
+{
+    "name": "hzd1989/ueditor",
+    "description": "ueditor for thinkphp5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hzd",
+            "email": "157246817@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hzd\\ueditor\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
